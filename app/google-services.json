@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "3527846178",
+    "firebase_url": "https://storiesprogressview-5f85f.firebaseio.com",
+    "project_id": "storiesprogressview-5f85f",
+    "storage_bucket": "storiesprogressview-5f85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3527846178:android:0440f6f77bd81b9d",
+        "android_client_info": {
+          "package_name": "com.jongewaard.dev.storiesprogressview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3527846178-2obib8q1acj0ngmsgauppcbou4opatm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jongewaard.dev.storiesprogressview",
+            "certificate_hash": "3a69843bb5fd6cf59aa6143e665ebfa7c35ba232"
+          }
+        },
+        {
+          "client_id": "3527846178-paekcj78dk2tas65oq9ufheq9bdcehe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7UoKU7lgfucMWJrKONVbyrtqEcop49RU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3527846178-paekcj78dk2tas65oq9ufheq9bdcehe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
